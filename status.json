@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-09 01:54:18",
+    "date": "2026-08-10 00:25:57",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -240628,6 +240628,46 @@
         "EP1063-BLES01225_00-AVDISGAEA4000035": {
             "pkg": 1,
             "rif": 0
+        },
+        "HP0571-PCSH00007_00-HAMPRDC000000001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "HP0571-PCSH00008_00-HAMPRDC000000001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "HP0571-PCSH00009_00-HAMPRDC000000001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "HP0571-PCSH00010_00-HAMPRDC000000001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "HP1658-PCSH00227_00-QUELLMEMENTO1FTG": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "HP1658-PCSH00277_00-NNBLASTBUNNIESAN": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "HP1658-PCSH00302_00-BABOONASIAPSVITA": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "HP9000-PCSD00046_00-TABLETOPTANKS001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "HP9000-PCSD00062_00-TABLEGOLFASIATOY": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "HP9000-PCSD00062_00-TABLEGOLFASIA000": {
+            "pkg": 1,
+            "rif": 1
         },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,

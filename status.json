@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-10 00:25:57",
+    "date": "2026-08-13 01:46:54",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -240668,6 +240668,66 @@
         "HP9000-PCSD00062_00-TABLEGOLFASIA000": {
             "pkg": 1,
             "rif": 1
+        },
+        "EP0006-BLES01016_00-S3DLCHAIRSTYLES0": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP1006-BLES01354_00-PDISNEYUNI000016": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP1006-BLES01354_00-PDISNEYUNI000024": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP1006-NPEF00093_00-GTOYSTORY2000DUT": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP1018-BLES01673_00-000NEW52SKINPACK": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP1063-BLES01723_00-AVMUGENSOU000006": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1063-BLES01723_00-AVMUGENSOU000009": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1063-BLES02022_00-AVMUGENSOU000004": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4312-NPEP00091_00-TSMOBILETH000407": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP4360-NPEP00189_00-MACHINARIUMTHEME": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4406-NPEB02328_00-MH2EU01000000000": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-NPEO00154_00-TERMINATORSTTMNL": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-UCES00006_00-GPCMEDIEVIGO0002": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "ET0001-NPEP00026_00-DP1VIR1MELODYOFT": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "ET0001-NPEP00026_00-DP1ANS1ROSEFAIRY": {
+            "pkg": 1,
+            "rif": 0
         },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,

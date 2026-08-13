@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-13 01:46:54",
+    "date": "2026-08-13 14:46:21",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -240726,6 +240726,174 @@
             "rif": 0
         },
         "ET0001-NPEP00026_00-DP1ANS1ROSEFAIRY": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00606_00-NARUTOSRTHEME007": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB90720_00-DBXVTHEME0000001": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0106-NPJB00818_00-SLAYERDLCCOS0007": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0106-NPJB00818_00-SLAYERDLCHRS0000": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0106-PCSG00943_00-SLAYERDLCCOS0007": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0106-PCSG00943_00-SLAYERDLCHRS0000": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00331_00-THEMEPART0000003": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00331_00-DLCCLB000000VJ01": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00331_00-THEMEPART0000001": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00331_00-THEMEPART0000007": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00331_00-THEMEPART0000008": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00331_00-THEMEPART0000002": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00331_00-THEMEPART0000005": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00331_00-THEMEPART0000006": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00331_00-THEMEPART0000004": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00448_00-DBZBOZCUSTOMTM01": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00519_00-THEME00000000000": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00547_00-WJ45JSVVSPS3CT01": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00753_00-ADDPART4JOTAROKU": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00753_00-DLMISSIONPACK001": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00753_00-DLMISSIONPACK002": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00753_00-DLMISSIONPACK003": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00753_00-DLMISSIONPACK004": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB00753_00-DLMISSIONPACK005": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-NPJB90679_00-DBZBOZVJTRIALVER": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD00": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD02": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD03": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD04": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD05": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD08": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD09": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD10": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD12": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD15": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD18": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD19": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD20": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD21": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD22": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-ONEPIECEBBPSVD23": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "JP0700-PCSG00743_00-OPBBPSV00000CT03": {
             "pkg": 1,
             "rif": 0
         },

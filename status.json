@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-16 15:08:48",
+    "date": "2026-08-18 18:04:48",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -247234,6 +247234,34 @@
             "rif": 1
         },
         "EP4062-BLES01739_00-DIR0000000000012": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "EP0006-BLES00984_00-NHL11ONLINEPASS1": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "EP0006-BLES01357_00-NHL12BOOSTPACK02": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "EP0006-BLES01357_00-NHL12BOOSTPACK07": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "EP0006-BLES01357_00-NHL12BOOSTPACK14": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "EP0006-BLES01357_00-NHL12ONLINEFREE1": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "EP0006-BLES01691_00-NHL13BOOSTPACK07": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "EP0006-BLES01691_00-NHL13ONLINEFREE1": {
             "pkg": 0,
             "rif": 1
         },

@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-18 18:04:48",
+    "date": "2026-08-21 17:05:22",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -755,7 +755,7 @@
         },
         "EP9000-BCES00483_00-AVAEYEPETMUSICDJ": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCES00484_00-AVAMOTORSTORMI02": {
             "pkg": 1,
@@ -8103,7 +8103,7 @@
         },
         "EP0002-BLES00577_00-TF2DLCPACK000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0002-BLES00683_00-MODERNWARFARE2D1": {
             "pkg": 1,
@@ -8371,11 +8371,11 @@
         },
         "EP0002-BLES01153_00-TFOCEUDLC0000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0002-BLES01153_00-TFOCEUDLC0000002": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0002-BLES01153_00-TFOCEUDLC0000003": {
             "pkg": 1,
@@ -27055,7 +27055,7 @@
         },
         "EP9000-BCES01422_00-LBPDLCDSMUCO0001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCES01422_00-LBPDLCDSMUCO0002": {
             "pkg": 1,
@@ -27075,7 +27075,7 @@
         },
         "EP9000-BCES01422_00-LBPDLCDSTRCO0001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCES01422_00-LBPDLCDSTSCO0001": {
             "pkg": 1,
@@ -73791,7 +73791,7 @@
         },
         "EP9000-BCET70023_00-GBETALITTL000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCET70024_00-GBETAKILLZ000001": {
             "pkg": 1,
@@ -73811,7 +73811,7 @@
         },
         "EP9000-BCET70031_00-BETASHIP03311920": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCET70033_00-RESISTANCE300001": {
             "pkg": 1,
@@ -87575,7 +87575,7 @@
         },
         "EP9000-NPEO00160_00-TGODOFWARA000002": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-NPEO00167_00-TBEYONDTWO000001": {
             "pkg": 1,
@@ -87631,7 +87631,7 @@
         },
         "EP9000-NPEO50025_00-WKAHOOTSWA000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "ES0009-NPEP00049_00-TSMSSTHEME000002": {
             "pkg": 1,
@@ -167267,7 +167267,7 @@
         },
         "EP9000-BCES00483_00-AVAEYEPETBGOALIE": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCES00726_00-PRATCHETAN000001": {
             "pkg": 1,
@@ -210675,7 +210675,7 @@
         },
         "EP9000-BCES01422_00-LBPDLCDSTSCO0002": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCES01422_00-LBPDLCSONYCO0044": {
             "pkg": 1,
@@ -223615,7 +223615,7 @@
         },
         "EP9000-BCES00141_00-LBPDLCSEGACO0001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCES01422_00-LBPDLCINSOCO0001": {
             "pkg": 1,
@@ -225199,7 +225199,7 @@
         },
         "EP9000-BCET70051_00-GBETARATCH000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCET70057_00-SINGSTARBETAPS31": {
             "pkg": 1,
@@ -225211,7 +225211,7 @@
         },
         "EP9000-NPEA00154_00-KGRAVITYCR000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-NPEA90128_00-GBETALITTL000001": {
             "pkg": 1,
@@ -235067,7 +235067,7 @@
         },
         "EP9000-BCES00141_00-LBPDLCORIGCO0023": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCES00141_00-LBPDLCSONYCO0021": {
             "pkg": 1,
@@ -237511,7 +237511,7 @@
         },
         "EP2015-NPEB00293_00-CASTLECRASHDLC01": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP4037-NPEB00525_00-AVABSOLUTE000070": {
             "pkg": 1,
@@ -241800,6 +241800,10 @@
         "UP9000-NPUA80536_00-AVAPSMAPETSUKUHI": {
             "pkg": 1,
             "rif": 0
+        },
+        "JP0393-PCSG00065_00-0000000000000003": {
+            "pkg": 1,
+            "rif": 1
         },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,
@@ -247262,6 +247266,18 @@
             "rif": 1
         },
         "EP0006-BLES01691_00-NHL13ONLINEFREE1": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "EP0002-BLES00833_00-TFWFCDLC00000002": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "EP9000-NPEA00382_00-STARHAWKMPPKG001": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "EP9000-NPEO00099_00-TKILLZONE3000001": {
             "pkg": 0,
             "rif": 1
         },

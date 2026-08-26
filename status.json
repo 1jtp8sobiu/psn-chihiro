@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-21 17:05:22",
+    "date": "2026-08-26 15:00:33",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -241802,6 +241802,62 @@
             "rif": 0
         },
         "JP0393-PCSG00065_00-0000000000000003": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000002": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000003": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000004": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000005": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000006": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000007": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000008": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000009": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000010": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000011": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000012": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000013": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0106-PCSG00542_00-HARUKA6MNL000014": {
             "pkg": 1,
             "rif": 1
         },

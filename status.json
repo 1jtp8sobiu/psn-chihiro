@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-27 16:40:23",
+    "date": "2026-08-29 02:31:08",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -142739,7 +142739,7 @@
         },
         "HP0425-PCSH00114_00-EDSENNOKISEKI2ND": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "HP0425-PCSH00178_00-FCEVOLUTION00000": {
             "pkg": 1,
@@ -163975,7 +163975,7 @@
         },
         "KP0002-NPHB00047_00-FRACTUREDEMOSCEK": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP1018-NPUB31377_00-INJUSTICEULTIMAT": {
             "pkg": 1,
@@ -167735,7 +167735,7 @@
         },
         "HP9000-NPHO00016_00-PS3MIUMIUHOUSEKR": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "HP9000-NPHO00087_00-0000NEWYEAR0ASIA": {
             "pkg": 1,
@@ -238587,15 +238587,15 @@
         },
         "HP0507-PCSH00279_00-000000THEME002KR": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "HP0507-PCSH00279_00-000000THEME003KR": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "HP0700-BLAS50618_00-ACVDCATALOG00100": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "HP9000-NPHA80074_00-ADHOCPARTY000000": {
             "pkg": 1,
@@ -238603,11 +238603,11 @@
         },
         "KP0004-PCSH00098_00-NORDLCONTENTS002": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "KP0004-PCSH00306_00-KAZETHEME0000000": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "KP0004-PCSH10043_00-ADDCONTENTDLC010": {
             "pkg": 1,

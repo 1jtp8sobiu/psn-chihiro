@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-29 15:48:43",
+    "date": "2026-08-30 15:23:42",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -241933,6 +241933,174 @@
             "pkg": 1,
             "rif": 1
         },
+        "EP4389-BLES02032_00-BNDTRKPK001SX001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-BNDTRKPK002SX001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-BNDTRKPK003SX001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-BNDTRKPK004SX001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-BNDTRKPK005JS001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-BNDTRKPK006SR001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-BNDTRKPK007WP001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-BNDTRKPK008SR001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHHON11125RM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHHON11250FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHHON11450FA001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHHON11450FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHHUS15125RM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHHUS15250RM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHHUS15350FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHHUS15450FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKTM15125RM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKTM15250FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKTM15250RM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKTM15350FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKTM15450FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHMXPFRAINTR001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHNOR15250RM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHUSM15250FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKAW11450FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKAW11125RM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKTM14350FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKTM11450FA001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKAW11450FA001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKTM14250FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKTM14450FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKAW11250FM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4389-BLES02032_00-VEHKTM14125RM001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0393-PCSG00065_00-0000000000000002": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0393-PCSG00065_00-0000000000000004": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0393-PCSG00065_00-0000000000000000": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0393-PCSG00065_00-0000000000000001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "UP0006-BLUS30854_00-TGRWDS013E000002": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP0006-BLUS31069_00-AO4OPP0000000000": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP2034-NPUB30206_00-JOEDANGERHG00001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "UP9000-NPUA80864_00-5555000000020124": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UT0001-NPUP00001_00-AMZNGPEAKSPS3TM1": {
+            "pkg": 1,
+            "rif": 0
+        },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,
             "rif": 1
@@ -245630,10 +245798,6 @@
             "rif": 1
         },
         "UP2017-NPUB30084_00-STARTREKDACUNLOK": {
-            "pkg": 0,
-            "rif": 1
-        },
-        "UP2034-NPUB30206_00-JOEDANGERHG00001": {
             "pkg": 0,
             "rif": 1
         },

@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-30 15:23:42",
+    "date": "2026-08-31 15:07:14",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -70539,7 +70539,7 @@
         },
         "EP0700-BLET70048_00-RRDRIFTHDDEU0100": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0700-BLET70052_00-ACECOMBATINF00B1": {
             "pkg": 1,
@@ -71679,7 +71679,7 @@
         },
         "EP2025-BLET70031_00-DEFIANCE00000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP2025-NPEB01242_00-DEFIANCE00000001": {
             "pkg": 1,
@@ -242101,6 +242101,90 @@
             "pkg": 1,
             "rif": 0
         },
+        "EP0002-BLES00833_00-TFWFCDLC00000002": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES00141_00-LBPDLCORIGCO0024": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES00483_00-AVAEYEPETLYHAPPY": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES00701_00-UFGBACKBURNCHARX": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES00701_00-UFGBACKBURNKARTX": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES00764_00-UFGBACKBURNKARTX": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES00764_00-UFGVANMANKARTXXX": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES00764_00-UFGBACKBURNCHARX": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES00764_00-UFGVANMANCHARXXX": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES00850_00-LBPDLCEAMECO0004": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES00850_00-LBPDLCDSTSCK0001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES01422_00-LBPDLCDSTSCO0003": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES01422_00-LBPDLCEAMECO0004": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES01422_00-LBPDLCDSTSCO0005": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCES01422_00-LBPDLCDSTSCO0004": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-BCET70042_00-GBETARATCH000001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-NPEA00382_00-STARHAWKMPPKG001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-NPEO00099_00-TKILLZONE3000001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP9000-PCSF00021_00-LBPDLCORIGCO0024": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-PCSF00021_00-LBPDLCEAMECO0004": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-PCSF00021_00-LBPDLCDSTSCK0001": {
+            "pkg": 1,
+            "rif": 0
+        },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,
             "rif": 1
@@ -247562,18 +247646,6 @@
             "rif": 1
         },
         "EP0006-BLES01691_00-NHL13ONLINEFREE1": {
-            "pkg": 0,
-            "rif": 1
-        },
-        "EP0002-BLES00833_00-TFWFCDLC00000002": {
-            "pkg": 0,
-            "rif": 1
-        },
-        "EP9000-NPEA00382_00-STARHAWKMPPKG001": {
-            "pkg": 0,
-            "rif": 1
-        },
-        "EP9000-NPEO00099_00-TKILLZONE3000001": {
             "pkg": 0,
             "rif": 1
         },

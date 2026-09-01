@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-31 15:07:14",
+    "date": "2026-09-01 22:29:26",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242184,6 +242184,66 @@
         "EP9000-PCSF00021_00-LBPDLCDSTSCK0001": {
             "pkg": 1,
             "rif": 0
+        },
+        "JP0642-BLJM60060_00-0000VRACDLTR0001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLCH0003": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLTR0002": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLRULE03": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLCH0001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLCH0004": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLMAP002": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLCH0005": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLCH0002": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLTR0003": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLRULE02": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLRULE01": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0642-BLJM60060_00-0000VRACDLMAP001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "UP0178-BLUS30080_00-STRANGLEHOLDDLC1": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "UP0178-BLUS30081_00-STRANGLEHOLDDLC1": {
+            "pkg": 1,
+            "rif": 1
         },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,

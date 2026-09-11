@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-08 04:25:48",
+    "date": "2026-09-11 17:59:14",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242257,6 +242257,42 @@
             "pkg": 1,
             "rif": 0
         },
+        "EP0182-BLES00884_00-TDU200004F919800": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP0182-BLES00884_00-TDU200000F00002F": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP0182-BLES00884_00-TDU200003F83E400": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP0182-BLES00884_00-TDU200004CA00400": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP0182-BLES00884_00-TDU200003F9A0400": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP0182-BLES00884_00-TDU200000F00002E": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP0182-BLES00884_00-TDU20000684EA800": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP0182-BLES00884_00-TDU200005F011C00": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1006-BLES00780_00-PSPLITSEC0000010": {
+            "pkg": 1,
+            "rif": 1
+        },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,
             "rif": 1
@@ -243838,6 +243874,158 @@
             "rif": 1
         },
         "HP5035-PCSH00217_00-FARMINGSIMULAT16": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC004": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC005": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC006": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC007": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC009": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC010": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC011": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC012": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC025": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC026": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC027": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC028": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC029": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC031": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC032": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC033": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC034": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC036": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC037": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC038": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC039": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC040": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC041": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC042": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC043": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC044": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC045": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC046": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC047": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC048": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC049": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC050": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC051": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC052": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC053": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC054": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC055": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "JP0367-PCSG00361_00-BULLETGXXXDLC056": {
             "pkg": 0,
             "rif": 1
         },

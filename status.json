@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-11 17:59:14",
+    "date": "2026-09-17 15:17:31",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -9315,7 +9315,7 @@
         },
         "EP0006-BLES00228_00-RB21GUNSXCCF02AA": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RB2TWENTYCCF0111": {
             "pkg": 1,
@@ -9807,7 +9807,7 @@
         },
         "EP0006-BLES00532_00-RBMAXWELLCCF000B": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00538_00-FIGHTNIGHTR4KEY1": {
             "pkg": 1,
@@ -165655,15 +165655,15 @@
         },
         "EP0001-BLES01216_00-RS001SONG0000103": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0001-BLES01216_00-RS001SONG0000104": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0001-BLES01216_00-RS001SONG0000102": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0001-BLES01386_00-AVRAYMANOR000011": {
             "pkg": 1,
@@ -165767,7 +165767,7 @@
         },
         "EP0006-BLES00228_00-RBONCEINACCF02FF": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBTHEMETACCF0351": {
             "pkg": 1,
@@ -165775,83 +165775,83 @@
         },
         "EP0006-BLES00228_00-RBKOOLTHICCF007B": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RB1901XXXCCF03E4": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBIPREDICCCF02F0": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBFRANZFECCF0251": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBBULLETPCCF04D6": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBCREEPINCCF01E2": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBLISZTOMCCF03E3": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBMYGENERCCF00C4": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBROCKSTACCF04AC": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBBADROMACCF0427": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBDAVIDBPCCF0013": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBRACONTPCCF0346": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBTHEBLACFFF0038": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBGORILLPCCF02E5": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBFASCINACCF03FB": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBMAKESMECCF0288": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBFLATHEACCF01E0": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBICKYTHUCCF037B": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBCALLMEXCCF0066": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBSHESAGECCF02F4": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBOASISPXCCF0034": {
             "pkg": 1,
@@ -165859,27 +165859,27 @@
         },
         "EP0006-BLES00228_00-RBLOVESPRCCF0122": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBHENRIETCCF01E1": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBHOUNDSOCCF041B": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBCLUBFOOCCF0378": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBKILLEPACCF0178": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00228_00-RBSUPERSOCCF02FA": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00315_00-FIFA2009ACD00006": {
             "pkg": 1,
@@ -165915,7 +165915,7 @@
         },
         "EP0006-BLES00532_00-RBADAYINLCCF0002": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00532_00-RBGIRLXXXCCF0015": {
             "pkg": 1,
@@ -165927,7 +165927,7 @@
         },
         "EP0006-BLES00532_00-RBWHENIM6CCF0004": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00562_00-BRUTALHAMMERFATE": {
             "pkg": 1,
@@ -166003,7 +166003,7 @@
         },
         "EP0006-BLES00870_00-TGRWDS011E000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBBLACKMACCFF15E": {
             "pkg": 1,
@@ -166011,7 +166011,7 @@
         },
         "EP0006-BLES00986_00-RBSMOOTHX3C2F400": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBTHROUGHCCFF15A": {
             "pkg": 1,
@@ -166019,15 +166019,15 @@
         },
         "EP0006-BLES00986_00-RBIWRITESC29EC00": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBYOUNGAMCCFF0E8": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBNEVERGOF2C4C00": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBTOTALECCCFF113": {
             "pkg": 1,
@@ -166035,39 +166035,39 @@
         },
         "EP0006-BLES00986_00-RBSTEREOH8CFD000": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBLOVEWILCCFF165": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBFALLOUTCCFF20D": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBZIGGYSTCCFF0E9": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBLOVEISACCFF11C": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBWEDIDNTCCFF0B0": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBIWILLPOCCFF146": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBPIANOMACCFF0AB": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBMODERNLCCFF0E7": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00986_00-RBDONTSTOA6B6000": {
             "pkg": 1,
@@ -167023,7 +167023,7 @@
         },
         "EP4185-NPEB00306_00-AVEXPLODEM000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP4312-NPEB00474_00-AVSMOBILET001156": {
             "pkg": 1,
@@ -167219,43 +167219,43 @@
         },
         "EP8802-BLES01611_00-RBTHEBLACAF51C00": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP8802-BLES01611_00-RBRUMINEXEB34000": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP8802-BLES01611_00-RBWEAREYOF9F3400": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP8802-BLES01611_00-RBHITCHIN8784400": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP8802-BLES01611_00-RBCALLMEM26FEC00": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP8802-BLES01611_00-RBJESUSOF8C96400": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP8802-BLES01611_00-RBROSANNA1252400": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP8802-BLES01611_00-RBHELENAX5049C00": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP8802-BLES01611_00-RBUNDERCOF25F400": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP8802-BLES01611_00-RBSPOONMABD83C00": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-BCES00141_00-AVLITTLEBI000006": {
             "pkg": 1,
@@ -167431,7 +167431,7 @@
         },
         "EP9000-NPEA00054_00-AVAPAINED0000000": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-NPEA00106_00-RATCHET550000001": {
             "pkg": 1,
@@ -167443,7 +167443,7 @@
         },
         "EP9000-NPEA00143_00-DNAMOUTH00000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-NPEA00238_00-SSHDSOUNDTRACK01": {
             "pkg": 1,
@@ -167459,7 +167459,7 @@
         },
         "EP9000-NPEA00391_00-AVASTUDIOJBURG01": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP9000-NPEA00509_00-KINVIZIMAL000001": {
             "pkg": 1,

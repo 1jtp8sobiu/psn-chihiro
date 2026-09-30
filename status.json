@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-17 15:17:31",
+    "date": "2026-09-30 22:36:52",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242290,6 +242290,86 @@
             "rif": 1
         },
         "EP1006-BLES00780_00-PSPLITSEC0000010": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00781_00-RECOLOVE00000047": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00781_00-RECOLOVE00000048": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00781_00-RECOLOVE00000049": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00781_00-RECOLOVE00000050": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00781_00-RECOLOVE00000051": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00781_00-RECOLOVE00000052": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00781_00-RECOLOVE00000053": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00781_00-RECOLOVE00000055": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00781_00-RECOLOVE00000056": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00781_00-RECOLOVE00000057": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00782_00-RECOLOVE00000047": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00782_00-RECOLOVE00000048": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00782_00-RECOLOVE00000049": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00782_00-RECOLOVE00000050": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00782_00-RECOLOVE00000051": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00782_00-RECOLOVE00000052": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00782_00-RECOLOVE00000054": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00782_00-RECOLOVE00000055": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00782_00-RECOLOVE00000056": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "JP0117-PCSG00782_00-RECOLOVE00000057": {
             "pkg": 1,
             "rif": 1
         },

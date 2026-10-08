@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-01 15:09:31",
+    "date": "2026-10-08 20:37:13",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242402,6 +242402,94 @@
             "rif": 1
         },
         "JP0117-PCSG00782_00-RECOLOVE00000272": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEAREVERSECOS": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEAOPPRESSOR1": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4MISPASHOWXMAS": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEA03RETAILEX": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEASUPERSAINT": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEAPRESIDENT1": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEASUPERPWR01": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEASUPERPWR02": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEASPORTSPACK": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEAHEYASHPACK": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEAGATVVVVPKG": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEAGUNSLNGPKG": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEABRADYGAMES": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEAPIRATEPACK": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEAANIMEPACK1": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEAHILLBILLY1": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEACAVEMANPAK": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEACOLLEGEDAZ": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEADUBSTEPPKG": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4GAM01CHEATSPK": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-BLES01954_00-SR4FEAWARPEDWEAP": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP4062-NPEB01842_00-SAINTSROWFOUR001": {
             "pkg": 1,
             "rif": 1
         },

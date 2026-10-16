@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-10 00:35:44",
+    "date": "2026-10-16 16:07:53",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -23019,7 +23019,7 @@
         },
         "EP4395-NPEB01337_00-THOMASWASALONEAC": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP4395-NPEB01358_00-DLC001TELEPORTCH": {
             "pkg": 1,
@@ -238939,7 +238939,7 @@
         },
         "EP0006-BLES00450_00-0000000000000001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0006-BLES00659_00-AO240THDAYDLCPK1": {
             "pkg": 1,
@@ -242492,6 +242492,54 @@
         "EP4062-NPEB01842_00-SAINTSROWFOUR001": {
             "pkg": 1,
             "rif": 1
+        },
+        "EP0006-BLES00176_00-EXTENDERPACK0002": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP0006-BLES00176_00-MCLARENF10000001": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP0006-BLES00176_00-VEYRON1640000001": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP0006-BLES00176_00-EXTENDERPACK0001": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP0006-BLES00477_00-GODFATHER2000A00": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP0082-BLES01661_00-SDDLC00000000002": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP0082-BLES01661_00-SDDLC00000000012": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP1003-BLES00399_00-BROKENSTEEL00AU1": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP1003-BLES00399_00-THEPITT000000AU1": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP1003-BLES00399_00-MOTHERSHIP000AU1": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP1003-BLES00399_00-ANCHORAGE0000AU1": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP1003-BLES00399_00-POINTLOOKOUT0AU1": {
+            "pkg": 1,
+            "rif": 0
         },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,

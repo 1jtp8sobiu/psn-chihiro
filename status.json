@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-16 16:07:53",
+    "date": "2026-10-16 21:44:38",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242538,6 +242538,14 @@
             "rif": 0
         },
         "EP1003-BLES00399_00-POINTLOOKOUT0AU1": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-BCES00850_00-LBPDLCSONYCO0029": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-PCSF00021_00-LBPDLCSONYCO0029": {
             "pkg": 1,
             "rif": 0
         },

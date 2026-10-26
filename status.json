@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-24 02:21:41",
+    "date": "2026-10-26 01:30:16",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242718,6 +242718,18 @@
             "rif": 0
         },
         "EP0002-BLES01948_00-GHOSTSHEROMAKARO": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP0001-BLUS30991_00-AVAASSCRD3CONNR3": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP1017-BLUS30127_00-AVAGTAIVLOSTDAMN": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP1017-BLUS30127_00-AVAGTAIVLUISLOPE": {
             "pkg": 1,
             "rif": 0
         },

@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-26 01:30:16",
+    "date": "2026-10-27 07:40:10",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -190615,7 +190615,7 @@
         },
         "UP9000-PCSA00075_00-VIKINGSATTACKDLC": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "JP0506-BLJM60993_00-DLC20120823JP000": {
             "pkg": 1,
@@ -201375,11 +201375,11 @@
         },
         "UP9000-PCSA00075_00-VIKINGSTOROCAT01": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP9000-PCSA00075_00-VIKINGSKUROCAT01": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP9000-PCSA00147_00-U000100ITM017PCH": {
             "pkg": 1,

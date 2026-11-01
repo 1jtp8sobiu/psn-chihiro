@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-31 17:52:49",
+    "date": "2026-11-01 15:35:44",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -64891,7 +64891,7 @@
         },
         "UP9000-BCUS98245_00-LBPDLCMARVCO0027": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP9000-BCUS98245_00-LBPDLCMOVELK0001": {
             "pkg": 1,
@@ -65559,7 +65559,7 @@
         },
         "UP9000-BCUS98254_00-LBPDLCMARVCO0027": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP9000-BCUS98254_00-LBPDLCMOVELK0001": {
             "pkg": 1,
@@ -135807,7 +135807,7 @@
         },
         "UP4433-PCSE00491_00-KSP0000000000023": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP4433-PCSE00491_00-KSP0000000000025": {
             "pkg": 1,
@@ -136571,7 +136571,7 @@
         },
         "UP9000-PCSA00017_00-LBPDLCMARVCO0027": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP9000-PCSA00017_00-LBPDLCMARVCO0028": {
             "pkg": 1,
@@ -136647,7 +136647,7 @@
         },
         "UP9000-PCSA00017_00-LBPDLCORIGCK0013": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP9000-PCSA00017_00-LBPDLCORIGCK0016": {
             "pkg": 1,
@@ -169387,11 +169387,11 @@
         },
         "UP1003-BLUS30500_00-FNVPSCLASSICPACK": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP1003-BLUS30626_00-FNVCLASSICPACKFR": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP1003-BLUS31024_00-DOOM3BFGSTATTHEM": {
             "pkg": 1,
@@ -221875,7 +221875,7 @@
         },
         "UP9000-BCUS98254_00-LBPDLCDSNBCO0002": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP9000-BCUS98254_00-LBPDLCDSMUCO0008": {
             "pkg": 1,
@@ -221927,7 +221927,7 @@
         },
         "UP9000-BCUS98362_00-LBPDLCCNATCO0002": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "UP9000-BCUS98362_00-LBPDLCDSBHCK0001": {
             "pkg": 1,
@@ -248366,6 +248366,22 @@
             "rif": 1
         },
         "EP1018-BLES01745_00-FLESHBURNERS0001": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "UP2026-BLUS31579_00-PMINECRAFT000002": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "UP2026-BLUS31579_00-PMINECRAFT000003": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "UP2026-BLUS31579_00-PMINECRAFT000004": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "UP2026-BLUS31579_00-PMINECRAFT000005": {
             "pkg": 0,
             "rif": 1
         },

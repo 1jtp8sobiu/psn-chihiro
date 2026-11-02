@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-01 15:35:44",
+    "date": "2026-11-02 08:29:55",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242744,6 +242744,26 @@
         "EP0006-BLES01733_00-593DE80X00000001": {
             "pkg": 1,
             "rif": 1
+        },
+        "EP9000-BCES00141_00-LBPDLCSONYCO0019": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-BCES00141_00-LBPDLCMARVCO0009": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-BCES00141_00-LBPDLCSONYCO0015": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-BCES00141_00-LBPDLCSONYCO0023": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-BCES00797_00-AVAHEAVYRAETHAN2": {
+            "pkg": 1,
+            "rif": 0
         },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,

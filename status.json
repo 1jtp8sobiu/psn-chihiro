@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-02 08:29:55",
+    "date": "2026-11-06 11:02:38",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242765,6 +242765,58 @@
             "pkg": 1,
             "rif": 0
         },
+        "UP0001-NPUB31709_00-RISKGAMEPS300004": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP0006-BLUS30066_00-ULTIMATEPERFORM1": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP0006-BLUS30580_00-ALLCARANDEVENTS0": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP0700-BLUS31168_00-DLC0100000000000": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP0700-BLUS31168_00-DLC02SAFARI00000": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP0700-NPUB31720_00-RIDEDLC010000000": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP0700-NPUB31720_00-RIDEDLC020000000": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UP2026-BLUS31579_00-PMINECRAFT000002": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "UP2026-BLUS31579_00-PMINECRAFT000003": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "UP2026-BLUS31579_00-PMINECRAFT000004": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "UP2026-BLUS31579_00-PMINECRAFT000005": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "UP4312-NPUB31721_00-UASMOBILEN000014": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "UT0027-NPUB31498_00-UANONGAMEC000080": {
+            "pkg": 1,
+            "rif": 0
+        },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,
             "rif": 1
@@ -248386,22 +248438,6 @@
             "rif": 1
         },
         "EP1018-BLES01745_00-FLESHBURNERS0001": {
-            "pkg": 0,
-            "rif": 1
-        },
-        "UP2026-BLUS31579_00-PMINECRAFT000002": {
-            "pkg": 0,
-            "rif": 1
-        },
-        "UP2026-BLUS31579_00-PMINECRAFT000003": {
-            "pkg": 0,
-            "rif": 1
-        },
-        "UP2026-BLUS31579_00-PMINECRAFT000004": {
-            "pkg": 0,
-            "rif": 1
-        },
-        "UP2026-BLUS31579_00-PMINECRAFT000005": {
             "pkg": 0,
             "rif": 1
         },

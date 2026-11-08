@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-06 11:02:38",
+    "date": "2026-11-08 15:22:21",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242816,6 +242816,10 @@
         "UT0027-NPUB31498_00-UANONGAMEC000080": {
             "pkg": 1,
             "rif": 0
+        },
+        "EP9001-BCES00569_00-SIGNATUREVERSION": {
+            "pkg": 1,
+            "rif": 1
         },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,

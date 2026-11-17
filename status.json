@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-14 23:18:07",
+    "date": "2026-11-17 21:26:09",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -244558,6 +244558,14 @@
             "rif": 1
         },
         "JP0367-PCSG00361_00-BULLETGXXXDLC056": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "HP0036-PCSH00084_00-BLAZBLUECP001000": {
+            "pkg": 0,
+            "rif": 1
+        },
+        "HP0101-PCSH00030_00-PROBBSPIRITS2013": {
             "pkg": 0,
             "rif": 1
         },

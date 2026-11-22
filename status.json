@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-17 21:26:09",
+    "date": "2026-11-22 05:38:07",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242824,6 +242824,18 @@
         "JP0367-BLJS10221_00-DLC2000000000001": {
             "pkg": 1,
             "rif": 1
+        },
+        "EP9000-BCES00795_00-REVERSEDISCGOLF0": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-BCES00795_00-INVASIONUNLOCK00": {
+            "pkg": 1,
+            "rif": 0
+        },
+        "EP9000-NPEG00054_00-INVIZTCG000PL000": {
+            "pkg": 1,
+            "rif": 0
         },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,

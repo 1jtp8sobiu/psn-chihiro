@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-22 05:38:07",
+    "date": "2026-11-24 15:11:42",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -242836,6 +242836,18 @@
         "EP9000-NPEG00054_00-INVIZTCG000PL000": {
             "pkg": 1,
             "rif": 0
+        },
+        "UP2131-NPUB31571_00-DP1MGM1KILLERKLO": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "US0036-NPUP00069_00-SCARFACESTANDTHM": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "UT0005-NPUP00013_00-NURSEGIRLNIKKI01": {
+            "pkg": 1,
+            "rif": 1
         },
         "UP9000-PCSA00099_00-TEARAWAY00000000": {
             "pkg": 0,

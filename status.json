@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-24 23:10:23",
+    "date": "2026-11-26 00:41:43",
     "id": {
         "EP0001-BLES00909_00-AVASSASSIN000006": {
             "pkg": 1,
@@ -67679,7 +67679,7 @@
         },
         "EP1006-NPED00147_00-GCARSXXXXX000ENG": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP1006-NPED00211_00-GMONSTERSI000ENG": {
             "pkg": 1,
@@ -68663,7 +68663,7 @@
         },
         "EP0002-NPEB00920_00-PROTOTYPE2POL001": {
             "pkg": 1,
-            "rif": 0
+            "rif": 1
         },
         "EP0002-NPEB00921_00-PROTOTYPE2RUS001": {
             "pkg": 1,
@@ -242846,6 +242846,50 @@
             "rif": 1
         },
         "UT0005-NPUP00013_00-NURSEGIRLNIKKI01": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP0002-BLES01532_00-MILITARYPDLC0001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP0002-BLES01532_00-INFECTEDPDLC0001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1006-NPEB00951_00-DISNEYEPICMICKEY": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1006-NPEB00972_00-BRAVEGAME0000001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1018-BLES01745_00-ORCSLAYER0000001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1018-BLES01745_00-HIDDENBLADE00001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1018-BLES01745_00-DEADLYARCHER0001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1018-BLES01745_00-CAPTBLACKGATE001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1018-BLES01745_00-RISINGSTORM00001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1018-BLES01745_00-FLAMEOFARNOR0001": {
+            "pkg": 1,
+            "rif": 1
+        },
+        "EP1018-NPEB01977_00-SHADOWOFMORDOR01": {
             "pkg": 1,
             "rif": 1
         },
